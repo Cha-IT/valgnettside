@@ -1,0 +1,19 @@
+header{
+    background-color: yellow;
+    height: 8em;
+    text-align: center;
+}
+
+main{
+    width: 60vw;
+    margin: auto;
+}
+
+nav{
+    text-align: center;
+}
+
+#headerbilde{
+    height: 50%;
+    float: right;
+}
